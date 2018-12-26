@@ -1616,3 +1616,11 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+.roompoints {
+    border:1px solid grey;
+    padding:5px;
+    margin-right: 5px;
+
+
+}
